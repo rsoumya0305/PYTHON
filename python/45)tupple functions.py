@@ -1,0 +1,7 @@
+n=(1,2,3)
+print(n)
+print(max(n))
+print(min(n))
+print(sum(n))
+print(sorted(n))
+print(len(n))
